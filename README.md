@@ -47,10 +47,11 @@
 
 <!-- Example Readme.md for a Project -->
 
+
 # Edu-Tech
 
 ## Project Overview
--Great! Could you please describe the specific problem that "foronce" solves? This will help complete the short description.
+- Edu-Teach is a course purchase website that simplifies finding and buying educational courses using React, Node.js, Express.js, and MongoDB.
 
 ## Features
 - Admin Penel

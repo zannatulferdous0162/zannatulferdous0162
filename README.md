@@ -32,6 +32,7 @@
 ## Pinned Repositories
 - Edu-Teach: <a href='https://github.com/zannatulferdous0162/Edu-teach'>Edu-Teach Repo</a>
 - P-Ticket: <a href='https://github.com/zannatulferdous0162/P-Ticket'>P-Ticket Repo</a>
+- Industrial-Growth: <a href='https://github.com/zannatulferdous0162/Industrial-Growth'>Industrial-Growth Repo</a>
 
 
 ## Skill
